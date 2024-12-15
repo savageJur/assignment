@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../beginners"
+		},
+		{
+			"path": "../../../carter"
+		},
+		{
+			"path": "../../../html lAB 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Barber"
+	}
+}
